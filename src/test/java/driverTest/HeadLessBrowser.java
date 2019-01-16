@@ -24,6 +24,7 @@ public class HeadLessBrowser {
 		driver.get("http://www.google.com");
 		System.out.println(driver.getTitle());
 		
+		System.out.println("Test");
 		
 		
 		
